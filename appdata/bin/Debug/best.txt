@@ -1,0 +1,2 @@
+Sawyer,Foster,Male,18,11100 v korunách:248085
+Průměrný věk je:24

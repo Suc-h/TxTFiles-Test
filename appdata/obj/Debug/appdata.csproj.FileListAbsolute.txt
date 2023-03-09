@@ -1,0 +1,10 @@
+C:\Users\suchyd.05\source\repos\appdata\appdata\bin\Debug\appdata.exe.config
+C:\Users\suchyd.05\source\repos\appdata\appdata\bin\Debug\appdata.exe
+C:\Users\suchyd.05\source\repos\appdata\appdata\bin\Debug\appdata.pdb
+C:\Users\suchyd.05\source\repos\appdata\appdata\obj\Debug\appdata.csprojAssemblyReference.cache
+C:\Users\suchyd.05\source\repos\appdata\appdata\obj\Debug\appdata.Form1.resources
+C:\Users\suchyd.05\source\repos\appdata\appdata\obj\Debug\appdata.Properties.Resources.resources
+C:\Users\suchyd.05\source\repos\appdata\appdata\obj\Debug\appdata.csproj.GenerateResource.cache
+C:\Users\suchyd.05\source\repos\appdata\appdata\obj\Debug\appdata.csproj.CoreCompileInputs.cache
+C:\Users\suchyd.05\source\repos\appdata\appdata\obj\Debug\appdata.exe
+C:\Users\suchyd.05\source\repos\appdata\appdata\obj\Debug\appdata.pdb
